@@ -1,7 +1,8 @@
 Soulcalibur 2 Blender import tool
 
 Original developers are
-Hino
-Diogenes
+
+Hino & Diogenes
+
 
 Early stages, so please feel free to submit changes to help aid its progress.
